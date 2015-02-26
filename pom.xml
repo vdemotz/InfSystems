@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ch.ethz.globis.isk</groupId>
@@ -9,26 +9,6 @@
     <packaging>pom</packaging>
     <version>1.0.0</version>
     <name>Information Systems Project - Parent</name>
-
-    <developers>
-        <developer>
-            <id>sgama</id>
-            <name>Samson Gama</name>
-            <email>gamas@student.ethz.ch</email>
-            <url>samsongama.com</url>
-        </developer>
-        <developer>
-            <id>alberthynek</id>
-            <name>Albert Hynek</name>
-            <email>hyneka@student.ethz.ch</email>
-            <url>alberthynek.com</url>
-        </developer>
-        <developer>
-            <id>vdemotz</id>
-            <name>Vincent Demotz</name>
-            <email>vdemotz@student.ethz.ch</email>
-        </developer>
-    </developers>
 
     <!--Properties shared by more modules-->
     <properties>
@@ -59,8 +39,6 @@
                 <configuration>
                     <source>1.7</source>
                     <target>1.7</target>
-                    <testSource>1.8</testSource>
-                    <testTarget>1.8</testTarget>
                 </configuration>
                 <version>3.1</version>
             </plugin>
