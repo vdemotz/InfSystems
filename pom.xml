@@ -14,19 +14,19 @@
         <developer>
             <id>sgama</id>
             <name>Samson Gama</name>
-            <email>gamas@student.ethz.ch<email>
+            <email>gamas@student.ethz.ch</email>
             <url>samsongama.com</url>
         </developer>
         <developer>
             <id>alberthynek</id>
             <name>Albert Hynek</name>
-            <email>hyneka@student.ethz.ch<email>
+            <email>hyneka@student.ethz.ch</email>
             <url>alberthynek.com</url>
         </developer>
         <developer>
             <id>vdemotz</id>
             <name>Vincent Demotz</name>
-            <email>vdemotz@student.ethz.ch<email>
+            <email>vdemotz@student.ethz.ch</email>
         </developer>
     </developers>
 
